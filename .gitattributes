@@ -1,1 +1,2 @@
 cocos2d/ filter=lfs diff=lfs merge=lfs -text
+cocos2d/**/* filter=lfs diff=lfs merge=lfs -text
