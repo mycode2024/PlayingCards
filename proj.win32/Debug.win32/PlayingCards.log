@@ -1,0 +1,45 @@
+﻿D:\ProgrammingSoftwareInstall\VisualStdio\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets(2189,5): warning MSB9008: 引用的项目 ..\cocos2d\external\Box2D\proj.win32\libbox2d.vcxproj 不存在。
+  AppDelegate.cpp
+D:\ProgrammingCode\cocos2dxCode\PlayingCards\Classes\AppDelegate.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\ProgrammingCode\cocos2dxCode\PlayingCards\Classes\scenes\GameScene.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“../Classes/AppDelegate.cpp”)
+  
+D:\ProgrammingCode\cocos2dxCode\PlayingCards\Classes\views\GameView.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“../Classes/AppDelegate.cpp”)
+  
+D:\ProgrammingCode\cocos2dxCode\PlayingCards\Classes\views\PlayFieldView.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“../Classes/AppDelegate.cpp”)
+  
+D:\ProgrammingCode\cocos2dxCode\PlayingCards\Classes\views\CardView.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“../Classes/AppDelegate.cpp”)
+  
+D:\ProgrammingCode\cocos2dxCode\PlayingCards\Classes\models\CardModel.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“../Classes/AppDelegate.cpp”)
+  
+D:\ProgrammingCode\cocos2dxCode\PlayingCards\Classes\configs\CardTypes.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“../Classes/AppDelegate.cpp”)
+  
+D:\ProgrammingCode\cocos2dxCode\PlayingCards\Classes\utils\CardUtils.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“../Classes/AppDelegate.cpp”)
+  
+D:\ProgrammingCode\cocos2dxCode\PlayingCards\Classes\models\GameModel.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“../Classes/AppDelegate.cpp”)
+  
+D:\ProgrammingCode\cocos2dxCode\PlayingCards\Classes\views\StackView.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“../Classes/AppDelegate.cpp”)
+  
+D:\ProgrammingCode\cocos2dxCode\PlayingCards\Classes\controllers\GameController.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“../Classes/AppDelegate.cpp”)
+  
+D:\ProgrammingCode\cocos2dxCode\PlayingCards\Classes\managers\UndoManager.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“../Classes/AppDelegate.cpp”)
+  
+D:\ProgrammingCode\cocos2dxCode\PlayingCards\Classes\models\UndoModel.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“../Classes/AppDelegate.cpp”)
+  
+D:\ProgrammingCode\cocos2dxCode\PlayingCards\Classes\configs\LevelConfig.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“../Classes/AppDelegate.cpp”)
+  
+  PlayingCards.vcxproj -> D:\ProgrammingCode\cocos2dxCode\PlayingCards\proj.win32\Debug.win32\PlayingCards.exe
+  正在执行自定义生成步骤
+  复制了 0 个文件

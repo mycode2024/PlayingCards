@@ -1,0 +1,16 @@
+D:\ProgrammingCode\cocos2dxCode\PlayingCards\Classes\AppDelegate.cpp;D:\ProgrammingCode\cocos2dxCode\PlayingCards\proj.win32\Debug.win32\AppDelegate.obj
+D:\ProgrammingCode\cocos2dxCode\PlayingCards\Classes\HelloWorldScene.cpp;D:\ProgrammingCode\cocos2dxCode\PlayingCards\proj.win32\Debug.win32\HelloWorldScene.obj
+D:\ProgrammingCode\cocos2dxCode\PlayingCards\proj.win32\main.cpp;D:\ProgrammingCode\cocos2dxCode\PlayingCards\proj.win32\Debug.win32\main.obj
+D:\ProgrammingCode\cocos2dxCode\PlayingCards\Classes\configs\LevelConfig.cpp;D:\ProgrammingCode\cocos2dxCode\PlayingCards\proj.win32\Debug.win32\LevelConfig.obj
+D:\ProgrammingCode\cocos2dxCode\PlayingCards\Classes\configs\LevelConfigLoader.cpp;D:\ProgrammingCode\cocos2dxCode\PlayingCards\proj.win32\Debug.win32\LevelConfigLoader.obj
+D:\ProgrammingCode\cocos2dxCode\PlayingCards\Classes\models\CardModel.cpp;D:\ProgrammingCode\cocos2dxCode\PlayingCards\proj.win32\Debug.win32\CardModel.obj
+D:\ProgrammingCode\cocos2dxCode\PlayingCards\Classes\models\GameModel.cpp;D:\ProgrammingCode\cocos2dxCode\PlayingCards\proj.win32\Debug.win32\GameModel.obj
+D:\ProgrammingCode\cocos2dxCode\PlayingCards\Classes\models\UndoModel.cpp;D:\ProgrammingCode\cocos2dxCode\PlayingCards\proj.win32\Debug.win32\UndoModel.obj
+D:\ProgrammingCode\cocos2dxCode\PlayingCards\Classes\views\CardView.cpp;D:\ProgrammingCode\cocos2dxCode\PlayingCards\proj.win32\Debug.win32\CardView.obj
+D:\ProgrammingCode\cocos2dxCode\PlayingCards\Classes\views\PlayFieldView.cpp;D:\ProgrammingCode\cocos2dxCode\PlayingCards\proj.win32\Debug.win32\PlayFieldView.obj
+D:\ProgrammingCode\cocos2dxCode\PlayingCards\Classes\views\StackView.cpp;D:\ProgrammingCode\cocos2dxCode\PlayingCards\proj.win32\Debug.win32\StackView.obj
+D:\ProgrammingCode\cocos2dxCode\PlayingCards\Classes\views\GameView.cpp;D:\ProgrammingCode\cocos2dxCode\PlayingCards\proj.win32\Debug.win32\GameView.obj
+D:\ProgrammingCode\cocos2dxCode\PlayingCards\Classes\controllers\GameController.cpp;D:\ProgrammingCode\cocos2dxCode\PlayingCards\proj.win32\Debug.win32\GameController.obj
+D:\ProgrammingCode\cocos2dxCode\PlayingCards\Classes\managers\UndoManager.cpp;D:\ProgrammingCode\cocos2dxCode\PlayingCards\proj.win32\Debug.win32\UndoManager.obj
+D:\ProgrammingCode\cocos2dxCode\PlayingCards\Classes\services\GameModelGenerator.cpp;D:\ProgrammingCode\cocos2dxCode\PlayingCards\proj.win32\Debug.win32\GameModelGenerator.obj
+D:\ProgrammingCode\cocos2dxCode\PlayingCards\Classes\scenes\GameScene.cpp;D:\ProgrammingCode\cocos2dxCode\PlayingCards\proj.win32\Debug.win32\GameScene.obj
