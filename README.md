@@ -1,3 +1,8 @@
+
+
+https://github.com/user-attachments/assets/9325ad50-7704-4ad6-9ce2-2c06847eaf76
+
+
 # 纸牌游戏程序设计文档
 
 本文档说明当前程序的架构设计，以及如何在现有代码结构下添加新的卡牌类型。
